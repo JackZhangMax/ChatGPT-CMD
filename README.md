@@ -7,4 +7,4 @@ Before running, please run the following command to install the required package
 pip install sqlalchemy
 ```
 
-![image](https://user-images.githubusercontent.com/41408669/228778643-53ad938e-9d35-46bc-9a77-e70649099df8.png)
+![image](https://s33.aconvert.com/convert/p3r68-cdx67/0kqi3-1636b.gif)
